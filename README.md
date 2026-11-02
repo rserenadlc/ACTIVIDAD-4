@@ -21,5 +21,5 @@ El objetivo del prototipo es evaluar y seleccionar el modelo más eficiente para
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/TU-USUARIO/huggingface-model-benchmark.git](https://github.com/TU-USUARIO/huggingface-model-benchmark.git)
+   git clone [https://github.com/rserenadlc/ACTIVIDAD-4.git](https://github.com/TU-USUARIO/huggingface-model-benchmark.git)
    cd huggingface-model-benchmark
